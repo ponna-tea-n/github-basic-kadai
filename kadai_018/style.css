@@ -50,13 +50,14 @@
   height: 300px;
   text-align: center;
   background-color: #87ceeb;
-  
+  margin: 0px auto;
 }
 
 #bottom-child01, #bottom-child02, #bottom-child03 {
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
+  
 }
 
 #bottom-child02 {
